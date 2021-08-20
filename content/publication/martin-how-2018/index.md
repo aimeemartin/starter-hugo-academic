@@ -9,11 +9,11 @@ authors:
 - Aimee Martin
 - Stefanie I. Becker
 tags:
-- '"*Attention"'
-- '"*Awareness"'
-- '"*Electroencephalography"'
-- '"*Eye Movements"'
-- '"*Visual Attention"'
+- '"Attention"'
+- '"Awareness"'
+- '"Electroencephalography"'
+- '"Eye Movements"'
+- '"Visual Attention"'
 - '"Attentional Capture"'
 - '"Color"'
 categories: []
