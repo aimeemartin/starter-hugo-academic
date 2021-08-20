@@ -35,5 +35,8 @@ publication_types:
 abstract: ''
 publication: '*Visual Cognition*'
 url_pdf: https://doi.org/10.1080/13506285.2019.1676352
+
+abstract: It is well-known that visual attention can be tuned in a top-down controlled manner to various attributes. Amongst other search strategies, previous research has identified a feature search mode in which attention is tuned to the target feature (e.g., colour) vs. a singleton search mode, where all salient items can attract attention. A short review of the literature reveals that singleton search mode is not regularly applied in single-target search, but could play a role in two-target search. Here we critically tested whether results suggesting singleton search could alternatively be due to top-down tuning to different attributes of the targets (e.g., luminance). The results of the first experiment show a mixture of attentional tuning to the target colours (red, green), as well as luminance (darker), and residual singleton capture. A second experiment shows that such mixed results can be obtained in the standard paradigm, with only small changes to the stimuli. These results cannot be coherently described within a single mental representation, and are therefore difficult to reconcile with the notion of a target template. Non-representational theories such as feature map theories seem better equipped to explain mixed search results, which could be a decisive weakness of representational theories.
+
 doi: 10.1080/13506285.2019.1676352
 ---
