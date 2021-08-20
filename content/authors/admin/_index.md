@@ -53,6 +53,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/aimeemartin
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:aimee.martin@psychol.uni-giessen.de"
+
 
 
 
